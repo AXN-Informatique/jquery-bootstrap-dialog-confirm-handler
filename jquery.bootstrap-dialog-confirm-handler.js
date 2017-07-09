@@ -1,11 +1,11 @@
 
 (function($) {
 
-    $.fn.confirm = function() {
+    $.fn.bootstrapDialogConfimHandler = function() {
 
         if (this.length > 1) {
             this.each(function() {
-                $(this).confirm();
+                $(this).bootstrapDialogConfimHandler();
             });
 
             return this;
