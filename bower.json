@@ -1,0 +1,24 @@
+{
+  "name": "jquery-bootstrap-dialog-confirm-handler",
+  "homepage": "https://github.com/AXN-Informatique/jquery-bootstrap-dialog-confirm-handler",
+  "authors": [
+    "AXn Informatique"
+  ],
+  "description": "",
+  "main": "jquery.bootstrap-dialog-confirm-handler.js",
+  "keywords": [
+    "jquery",
+    "jquery-plugin"
+  ],
+  "license": "MIT",  "dependencies": {
+    "bootstrap3-dialog": "^1.35.0",
+    "jquery": "^3.2.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
