@@ -2,6 +2,7 @@
   "name": "jquery-bootstrap-dialog-confirm-handler",
   "description": "jQuery Bootstrap dialog confirm handler plugin",
   "main": "jquery.bootstrap-dialog-confirm-handler.js",
+  "version": "1.0.3",
   "dependencies": {
     "jquery": "^3.2"
   },
