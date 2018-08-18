@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.0.3 (2018-08-18)
+------------------
+
+- add missing version number in package.json
+
 1.0.2 (2018-08-15)
 ------------------
 
